@@ -19,7 +19,8 @@ A collection of resources about design science
 
 # Software
 
-- 
+- https://github.com/sandialabs/linkshop (Python and JavaScript)
+- https://github.com/Adjuvant/Linkograph (Processing)
 
 # Tutorials
 
