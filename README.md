@@ -5,6 +5,14 @@ A collection of resources about design science
 
 - 
 
+# Conferences and Events
+
+- 
+
+# Journals
+
+- 
+
 # Journal Articles
 
 - 
