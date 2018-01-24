@@ -1,5 +1,5 @@
-# awesome-design-science
-A collection of resources about design science
+# Awesome design science ✨
+A collection of resources about design science and linkography
 
 # Conference Papers and Proceedings
 
@@ -26,6 +26,8 @@ A collection of resources about design science
 - 
 
 # Software
+
+## Linkography
 
 - https://github.com/sandialabs/linkshop (Python and JavaScript)
 - https://github.com/Adjuvant/Linkograph (Processing)
